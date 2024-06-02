@@ -2,7 +2,7 @@ import pyautogui
 
 # clica e cria pasta x vezes
 def mover():
-      for i in range(2):
+      for i in range(3):
             pyautogui.click(x=1572, y=401, duration= 0.5)
 
             pyautogui.rightClick()
@@ -11,4 +11,4 @@ def mover():
 
             pyautogui.click(x=1542, y=700, duration= 0.5)
 
-mover()
+#mover()

@@ -3,3 +3,5 @@ from arrastarArquivos import arrastar
 
 
 mover()
+
+arrastar()

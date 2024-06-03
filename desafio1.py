@@ -10,4 +10,3 @@ pyautogui.click(x=1398, y=142)
 pyautogui.typewrite(email)
 pyautogui.press('enter')
 pyautogui.typewrite(senha)
-
